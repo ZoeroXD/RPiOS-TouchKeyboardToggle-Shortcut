@@ -1,0 +1,9 @@
+[Desktop Entry]
+Type=Application
+Name=Toggle Keyboard
+Comment=Cycle the on-screen keyboard setting (On / Auto / Off)
+Exec=@SCRIPT@
+Icon=input-keyboard
+Terminal=false
+Categories=Utility;
+StartupNotify=false
